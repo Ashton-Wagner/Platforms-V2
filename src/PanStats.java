@@ -29,8 +29,8 @@ public class PanStats extends JPanel {
     Boolean bStopTimer = false;
     Boolean bTimeChanged;
     Timer timer;
-    int Time1 = 0;
-    int Time2 = 0;
+    int Time1 = 9;
+    int Time2 = 9;
     int Time3 = 9;
     int nLife = 3;
     int nCoins1 = 0;
